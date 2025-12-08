@@ -16,8 +16,8 @@
 - 🚀 [BAZAR-Mobile-App](https://github.com/mohamedyounis10/BAZAR.-Mobile-App)
 - 🚇 [CairoMetro-App](https://github.com/mohamedyounis10/CairoMetro-App)
 - 📊 [Car-Data-Analysis-EDA-Dashboard](https://github.com/mohamedyounis10/Car-Data-Analysis-EDA-Dashboard)
-- 🏥 [Healthcare-Management-System](https://github.com/mohamedyounis10/Healthcare-Management-System)
-- 📱 [BMI-Calculator](https://github.com/mohamedyounis10/BMI-Calculator)
+- 🦾 [MachineLearning-Practice](https://github.com/mohamedyounis10/MachineLearning-Practice)
+- 📱 [SnapShop-Ecommerce-App](https://github.com/mohamedyounis10/SnapShop-Ecommerce-App)
 
 
 ---
