@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamedyounis10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Repo](https://img.shields.io/badge/BAZAR_App-000?style=for-the-badge)](https://github.com/mohamedyounis10/BAZAR.-Mobile-App)
-
 ## 🔝 Top Contributed Repo
 - 🚀 [BAZAR-Mobile-App](https://github.com/mohamedyounis10/BAZAR.-Mobile-App)
 - 🚇 [CairoMetro-App](https://github.com/mohamedyounis10/CairoMetro-App)
