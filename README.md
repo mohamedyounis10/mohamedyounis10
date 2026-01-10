@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Younهs</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Younis</h1>
 <h3 align="center">
 From turning data into intelligence 🤖📊 to building beautiful mobile apps 📱
   
