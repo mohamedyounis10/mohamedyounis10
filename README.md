@@ -30,32 +30,6 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohamedyounis10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h1 align="center">Hi 👋, I'm Mohamed Younes</h1>
-<h3 align="center">
-From turning data into intelligence 🤖📊 to building beautiful mobile apps 📱  
-AI & Data Science Enthusiast | Flutter Mobile Developer
-</h3>
-
----
-
-🌍 Based in Egypt  
-🤖 Passionate about Artificial Intelligence & Data Science  
-📱 Flutter Mobile App Developer  
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning **AI, Data Science, and Advanced Machine Learning**
-- 📊 Ask me about **Data Analysis, AI, Machine Learning**
-- 📱 Ask me about **Flutter & Mobile App Development**
-- ⚡ Fun fact: I treat datasets like puzzles 🧩 and Flutter widgets like LEGO 😄
-
----
 
 ### 📫 How to reach me
 
