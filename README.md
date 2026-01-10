@@ -9,8 +9,7 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
 # 💫 About Me:
 🔭 I’m currently working on Flutter projects and AI/Machine Learning projects.<br>🤝 I’m looking to collaborate on mobile applications and AI-based solutions.<br>🤲 I’m looking for help with real-world deployment and advanced project development.<br>💬 Ask me about Flutter, AI ideas, and building practical applications.<br>⚡ Fun fact: I enjoy building projects that combine software and AI.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moyounis15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyounis15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed1younis1@gmail.com) 
 
 # 💻 Tech Stack:
@@ -27,69 +26,6 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
 - 📊 [Car-Data-Analysis-EDA-Dashboard](https://github.com/mohamedyounis10/Car-Data-Analysis-EDA-Dashboard)
 - 🦾 [MachineLearning-Practice](https://github.com/mohamedyounis10/MachineLearning-Practice)
 - 📱 [SnapShop-Ecommerce-App](https://github.com/mohamedyounis10/SnapShop-Ecommerce-App)
-
-
----
-
-### 📫 How to reach me
-
-- 📧 Email: your_email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📘 Facebook: https://facebook.com/your-profile  
-- 📸 Instagram: https://instagram.com/your-profile  
-- 💬 WhatsApp: https://wa.me/your-number  
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://facebook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://instagram.com" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://wa.me/" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-#### 📊 Data Science & AI
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-#### 📱 Mobile Development
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight" />
-</p>
 
 ---
 
