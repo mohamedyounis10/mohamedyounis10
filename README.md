@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Mohamed Younes</h1>
+<h3 align="center">
+From turning data into intelligence 🤖📊 to building beautiful mobile apps 📱
+  
+AI & Data Science Enthusiast | Flutter Mobile Developer
+</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Flutter projects and AI/Machine Learning projects.<br>🤝 I’m looking to collaborate on mobile applications and AI-based solutions.<br>🤲 I’m looking for help with real-world deployment and advanced project development.<br>💬 Ask me about Flutter, AI ideas, and building practical applications.<br>⚡ Fun fact: I enjoy building projects that combine software and AI.
 
