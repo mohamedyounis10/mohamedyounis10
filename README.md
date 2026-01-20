@@ -23,11 +23,6 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
   <img src="https://streak-stats.demolab.com?user=mohamedyounis10&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48%" />
 </p>
-| GitHub Streak | Top Languages |
-|--------------|---------------|
-| ![](https://streak-stats.demolab.com?user=mohamedyounis10&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff) |
-
-
 ## 🔝 Top Contributed Repo
 - 🚀 [BAZAR-Mobile-App](https://github.com/mohamedyounis10/BAZAR.-Mobile-App)
 - 🚇 [CairoMetro-App](https://github.com/mohamedyounis10/CairoMetro-App)
