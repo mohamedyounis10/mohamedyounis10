@@ -64,6 +64,18 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
         </a>
       </td>
     </tr>
+      <tr>
+      <td>
+        <a href="https://github.com/mohamedyounis10/MachineLearning-Practice">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=MachineLearning-Practice&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mohamedyounis10/CodeAlpha_Iris-Flower-Classification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CodeAlpha_Iris-Flower-Classification&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
