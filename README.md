@@ -27,7 +27,7 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=mohamedyounis10&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-  &nbsp; <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" alt="Top Languages" />
+  &nbsp; <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" alt="Top Languages" />
 </p>
 
 ## 🔝 Top Contributed Repo
