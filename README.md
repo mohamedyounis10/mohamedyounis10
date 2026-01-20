@@ -17,7 +17,7 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamedyounis10&theme=dark&show_icons=true&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117)
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedyounis10&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohamedyounis10&theme=dark&show_icons=true&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
