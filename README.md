@@ -25,6 +25,10 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
   &nbsp;&nbsp;   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&v=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=BAZAR.-Mobile-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
+</p>
+
 ## 🔝 Top Contributed Repo
 - 🚀 [BAZAR-Mobile-App](https://github.com/mohamedyounis10/BAZAR.-Mobile-App)
 - 🚇 [CairoMetro-App](https://github.com/mohamedyounis10/CairoMetro-App)
