@@ -47,13 +47,12 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/mohamedyounis10/BAZAR.-Mobile-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=BAZAR.-Mobile-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a><a href="https://github.com/mohamedyounis10/CairoMetro-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a>
-  <br>
-  <a href="https://github.com/mohamedyounis10/SnapShop-Ecommerce-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=SnapShop-Ecommerce-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a><a href="https://github.com/mohamedyounis10/Car-Data-Analysis-EDA-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Car-Data-Analysis-EDA-Dashboard&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a>
-  <br>
-  <a href="https://github.com/mohamedyounis10/MachineLearning-Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=MachineLearning-Practice&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a><a href="https://github.com/mohamedyounis10/CairoMetro-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" width="48.5%" /></a>
-</p>
+
+| | |
+|--|--|
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=BAZAR.-Mobile-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/BAZAR.-Mobile-App) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/CairoMetro-App) |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=SnapShop-Ecommerce-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/SnapShop-Ecommerce-App) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Car-Data-Analysis-EDA-Dashboard&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/Car-Data-Analysis-EDA-Dashboard) |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=MachineLearning-Practice&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/MachineLearning-Practice) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/mohamedyounis10/CairoMetro-App) |
 
 
 ## 🔝 Top Contributed Repo
