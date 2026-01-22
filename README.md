@@ -54,8 +54,8 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mohamedyounis10/CodeAlpha_Unemployment-Analysis-in-India">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CodeAlpha_Unemployment-Analysis-in-India&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
+        <a href="https://github.com/mohamedyounis10/Unemployment-Analysis-in-India">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Unemployment-Analysis-in-India&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
         </a>
       </td>
       <td>
@@ -71,8 +71,8 @@ AI & Data Science Enthusiast | Flutter Mobile Developer
         </a>
       </td>
       <td>
-        <a href="https://github.com/mohamedyounis10/CodeAlpha_Iris-Flower-Classification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CodeAlpha_Iris-Flower-Classification&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
+        <a href="https://github.com/mohamedyounis10/Iris-Flower-Classification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Iris-Flower-Classification&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
         </a>
       </td>
     </tr>
