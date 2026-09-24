@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:1a2980,50:26d0ce,100:1a2980&amp;text=Mohamed%20Younis&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Enthusiast%20|%20Flutter%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:1a2980,50:26d0ce,100:1a2980&amp;text=Mohamed%20Younis&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Flutter%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=26D0CE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
 
