@@ -1,84 +1,171 @@
-<h1 align="center">Hi 👋, I'm Mohamed Younis</h1>
-<h3 align="center">
-From turning data into intelligence 🤖📊 to building beautiful mobile apps 📱
-  
-AI & Data Science Enthusiast | Flutter Mobile Developer
-</h3>
-
-
-# 💫 About Me:
-🔭 I’m currently working on Flutter projects and AI/Machine Learning projects.<br>🤝 I’m looking to collaborate on mobile applications and AI-based solutions.<br>🤲 I’m looking for help with real-world deployment and advanced project development.<br>💬 Ask me about Flutter, AI ideas, and building practical applications.<br>⚡ Fun fact: I enjoy building projects that combine software and AI.
-
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moyounis15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyounis15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed1younis1@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedyounis10&theme=dark&show_icons=true&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mohamedyounis10&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-  &nbsp;&nbsp;   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&v=1" />
-</p>
-
-# 🔝 Top Contributed Repo:
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/mohamedyounis10/BAZAR.-Mobile-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=BAZAR.-Mobile-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mohamedyounis10/CairoMetro-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=CairoMetro-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/mohamedyounis10/SnapShop-Ecommerce-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=SnapShop-Ecommerce-App&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mohamedyounis10/Car-Data-Analysis-EDA-Dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Car-Data-Analysis-EDA-Dashboard&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/mohamedyounis10/Unemployment-Analysis-in-India">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Unemployment-Analysis-in-India&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mohamedyounis10/Smart-Syringe-Pump">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Smart-Syringe-Pump&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-    </tr>
-      <tr>
-      <td>
-        <a href="https://github.com/mohamedyounis10/Olist-brazilian-ecommerce-analytics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Olist-brazilian-ecommerce-analytics&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mohamedyounis10/Iris-Flower-Classification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedyounis10&repo=Iris-Flower-Classification&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="170" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a2980,50:26d0ce,100:1a2980&text=Mohamed%20Younis&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast%20|%20Flutter%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=26D0CE&center=true&vCenter=true&width=800&lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
+
+<br>
+
+<a href="https://linkedin.com/in/mohamedyounis15">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://facebook.com/moyounis15">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:mohamed1younis1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/mohamedyounis15">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamedyounis10&label=Profile%20Views&color=26d0ce&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mohamedyounis10?style=for-the-badge&color=1a2980&label=Followers"/>
+
 </div>
 
 ---
 
-✨ *Always learning, always building, always curious.*
+## 💫 About Me
+
+- 🔭 Currently working on **AI / Machine Learning** projects (computer vision, NLP, data analysis) and **Flutter** mobile apps
+- 🌱 Focused on real-world, Egyptian/Arabic-context applications — license plate recognition, Arabic OCR, English-Arabic translation
+- 🤝 Looking to collaborate on **AI-based solutions** and **mobile applications**
+- 🤲 Looking for help with real-world deployment and advanced project development
+- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, or Flutter
+- ⚡ Fun fact: I enjoy building projects that combine software engineering with AI
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+**AI / Machine Learning / Data Science**
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+</p>
+
+**Mobile & Backend**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2980,100:26d0ce&height=2&width=100%25"/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🦺 Construction Site PPE Detection
+End-to-end computer vision project for real-time PPE compliance detection on construction sites using **YOLOv8**, with model comparison, evaluation, and Streamlit deployment for image/video inference.
+
+**[→ View Repository](https://github.com/mohamedyounis10/Construction-Site-PPE-Detection)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Egyptian Car Plates Detection & OCR
+Two-stage computer vision pipeline that localizes Egyptian license plates and performs Arabic character recognition (OCR) — a business-ready, real-world vehicle plate recognition workflow.
+
+**[→ View Repository](https://github.com/mohamedyounis10/Egyptian-Car-Plates-Detection-and-OCR)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☣️ Toxic Comment Detection
+NLP classification project that detects and categorizes toxic online comments, covering text preprocessing, model training, and evaluation on a multi-label dataset.
+
+**[→ View Repository](https://github.com/mohamedyounis10/Toxic-Comment-Detection)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Time Series Breakdown of Retail Sales
+Time-series analysis and decomposition of retail sales data — trend, seasonality, and forecasting insights extracted through exploratory and statistical analysis.
+
+**[→ View Repository](https://github.com/mohamedyounis10/Time-Series-Breakdown-of-Retail-Sales)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍿 Netflix Movies & TV Shows — EDA & Hybrid Recommendation System
+Exploratory data analysis of the Netflix catalog paired with a hybrid (content-based + collaborative) recommendation system for movies and TV shows.
+
+**[→ View Repository](https://github.com/mohamedyounis10/Netflix-Movies-and-TV-Shows-EDA-Hybrid-Recommendation-System)**
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on my GitHub
+Browse the rest of my mobile apps (Flutter) and data science notebooks — BAZAR mobile app, Cairo Metro app, SnapShop e-commerce app, Car Data Analysis dashboard, and more.
+
+**[→ View All Repositories](https://github.com/mohamedyounis10?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2980,100:26d0ce&height=2&width=100%25"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohamedyounis10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=26d0ce&icon_color=26d0ce"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce"/>
+
+<img src="https://streak-stats.demolab.com?user=mohamedyounis10&theme=tokyonight&hide_border=true&background=0D1117&ring=26d0ce&fire=26d0ce"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<div align="center">
+
+**Let's connect** — mohamed1younis1@gmail.com · linkedin.com/in/mohamedyounis15 · Egypt
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:1a2980&height=100&section=footer"/>
+
+</div>
