@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a2980,50:26d0ce,100:1a2980&text=Mohamed%20Younis&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast%20|%20Flutter%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:1a2980,50:26d0ce,100:1a2980&amp;text=Mohamed%20Younis&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Enthusiast%20|%20Flutter%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=26D0CE&center=true&vCenter=true&width=800&lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=26D0CE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
 
 <br>
 
 <a href="https://linkedin.com/in/mohamedyounis15">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="https://facebook.com/moyounis15">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/>
 </a>
 <a href="mailto:mohamed1younis1@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 <a href="https://kaggle.com/mohamedyounis15">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mohamedyounis10&label=Profile%20Views&color=26d0ce&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mohamedyounis10?style=for-the-badge&color=1a2980&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=mohamedyounis10&amp;label=Profile%20Views&amp;color=26d0ce&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mohamedyounis10?style=for-the-badge&amp;color=1a2980&amp;label=Followers"/>
 
 </div>
 
@@ -44,45 +44,45 @@
 **Languages**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
 </p>
 
 **AI / Machine Learning / Data Science**
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black"/>
 </p>
 
-**Mobile & Backend**
+**Mobile &amp; Backend**
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
 </p>
 
-**Tools & Platforms**
+**Tools &amp; Platforms**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2980,100:26d0ce&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a2980,100:26d0ce&amp;height=2&amp;width=100%25"/>
 
 ## 🚀 Featured Projects
 
@@ -98,7 +98,7 @@ End-to-end computer vision project for real-time PPE compliance detection on con
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Egyptian Car Plates Detection & OCR
+### 🚗 Egyptian Car Plates Detection &amp; OCR
 Two-stage computer vision pipeline that localizes Egyptian license plates and performs Arabic character recognition (OCR) — a business-ready, real-world vehicle plate recognition workflow.
 
 **[→ View Repository](https://github.com/mohamedyounis10/Egyptian-Car-Plates-Detection-and-OCR)**
@@ -126,7 +126,7 @@ Time-series analysis and decomposition of retail sales data — trend, seasonali
 <tr>
 <td width="50%" valign="top">
 
-### 🍿 Netflix Movies & TV Shows — EDA & Hybrid Recommendation System
+### 🍿 Netflix Movies &amp; TV Shows — EDA &amp; Hybrid Recommendation System
 Exploratory data analysis of the Netflix catalog paired with a hybrid (content-based + collaborative) recommendation system for movies and TV shows.
 
 **[→ View Repository](https://github.com/mohamedyounis10/Netflix-Movies-and-TV-Shows-EDA-Hybrid-Recommendation-System)**
@@ -143,16 +143,16 @@ Browse the rest of my mobile apps (Flutter) and data science notebooks — BAZAR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2980,100:26d0ce&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a2980,100:26d0ce&amp;height=2&amp;width=100%25"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohamedyounis10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=26d0ce&icon_color=26d0ce"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohamedyounis10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=26d0ce&amp;icon_color=26d0ce"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyounis10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=26d0ce"/>
 
-<img src="https://streak-stats.demolab.com?user=mohamedyounis10&theme=tokyonight&hide_border=true&background=0D1117&ring=26d0ce&fire=26d0ce"/>
+<img src="https://streak-stats.demolab.com?user=mohamedyounis10&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=26d0ce&amp;fire=26d0ce"/>
 
 </div>
 
@@ -166,6 +166,6 @@ Browse the rest of my mobile apps (Flutter) and data science notebooks — BAZAR
 
 **Let's connect** — mohamed1younis1@gmail.com · linkedin.com/in/mohamedyounis15 · Egypt
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:1a2980&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:26d0ce,50:1a2980,100:1a2980&amp;height=100&amp;section=footer"/>
 
 </div>
