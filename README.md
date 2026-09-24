@@ -1,6 +1,8 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a2980,50:26d0ce,100:1a2980&text=Mohamed%20Younis&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Flutter%20Mobile%20Developer&descAlignY=58&descSize=18&v=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Ahmed%20Abdelsalam&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Developer&descAlignY=58&descSize=22&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=2C5364&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+%7C+C%2B%2B+%7C+Deep+Learning;Computer+Science+Student+at+Sinai+University"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=26D0CE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
 
