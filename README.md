@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Mohamed%20Younis&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Developer&descAlignY=58&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Mohamed%20Younis&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20r&descAlignY=58&descSize=22&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=26D0CE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Turning+Data+into+Intelligence+%F0%9F%A4%96%F0%9F%93%8A;Computer+Vision+%7C+NLP+%7C+Data+Science;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+for+Egyptian%2FArabic-context+Applications"/>
 
